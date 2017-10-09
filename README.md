@@ -67,7 +67,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex.git)
+- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -91,6 +91,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
@@ -158,6 +159,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
+
+### Licenses
+- [Choose An Open Source License](https://choosealicense.com/)
 
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
